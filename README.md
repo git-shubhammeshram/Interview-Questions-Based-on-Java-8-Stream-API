@@ -2,7 +2,7 @@
 
 Welcome to the ultimate resource for mastering **Java 8 Stream API** concepts through **interview questions and answers**. This repository is designed for Java developers who want to level up their functional programming skills and prepare for technical interviews.
 
-![Java Stream API](https://www.geeksforgeeks.org/wp-content/uploads/2020/07/Java-Stream-API.jpg)
+![Java Stream API](https://articles.geekster.in/wp-content/uploads/2024/06/WhatsApp-Image-2024-06-27-at-17.09.50.jpeg)
 
 ---
 
@@ -39,7 +39,7 @@ Java 8 introduced the **Stream API** as a powerful way to process collections of
 
 | Stream Pipeline | Stream Operations |
 |------------------|------------------|
-| ![Stream Pipeline](https://www.geeksforgeeks.org/wp-content/uploads/2020/07/Stream-Pipeline.jpg) | ![Operations](https://www.geeksforgeeks.org/wp-content/uploads/2020/07/Stream-Operations.jpg) |
+| ![Stream Pipeline](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-abTTPDzyCp-N5Pv9ZPgQA7YiwqqZCDN7eA&s) | ![Operations](https://media.geeksforgeeks.org/wp-content/uploads/20210706120624/CoreStreamOperations.png) |
 
 ---
 
@@ -75,6 +75,5 @@ Java 8 introduced the **Stream API** as a powerful way to process collections of
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/java8-stream-interview-questions.git
-   cd java8-stream-interview-questions
+   https://github.com/git-shubhammeshram/Interview-Questions-Based-on-Java-8-Stream-API.git
    
